@@ -52,3 +52,7 @@ Grafika w stylu geek-owskim: jakieś postacie z frontendu (np. zabijanie jQuery)
 * List of features on Google Chrome: https://www.chromestatus.com/features 
 * Modern styles: https://github.com/CreateJS/
 * Firebase: https://dumplings.firebaseio.com/
+
+## License
+
+[The MIT License](http://piecioshka.mit-license.org) @ 2026
