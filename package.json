@@ -1,6 +1,7 @@
 {
     "name": "ss15-dumplings",
     "version": "0.1.0",
+    "license": "MIT",
     "author": "ss15-dumplings team",
     "repository": {
         "type": "git",
